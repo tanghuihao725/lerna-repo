@@ -1,6 +1,6 @@
 {
   "name": "thh-pkg-b",
-  "version": "0.0.1-alpha.9",
+  "version": "0.0.1-alpha.10",
   "main": "esm/index.js",
   "types": "esm/index.d.ts",
   "license": "MIT",
@@ -20,7 +20,7 @@
     "dayjs": "^1.11.7",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
-    "thh-pkg-a": "^0.0.1-alpha.5"
+    "thh-pkg-a": "^0.0.1-alpha.10"
   },
   "devDependencies": {
     "typescript": "^5.0.3"

@@ -1,7 +1,9 @@
 {
   "name": "root",
   "private": true,
-  "prepublish": "lerna run build",
+  "scripts": {
+    "prepublish": "lerna run build"
+  },
   "workspaces": [
     "packages/*"
   ],

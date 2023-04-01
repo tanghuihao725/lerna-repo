@@ -1,6 +1,6 @@
 {
   "name": "thh-pkg-b",
-  "version": "0.0.1-alpha.5",
+  "version": "0.0.1-alpha.7",
   "main": "esm/index.js",
   "types": "esm/index.d.ts",
   "license": "MIT",
